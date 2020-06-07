@@ -8,7 +8,7 @@ main_phon.m is the code for preprocessing.
 firstlevel.m is the code for firstlevel modeling and estimation as well as getting contrast maps.
 
 #Secondlevel: 
-secondlevel.m is the code for getting a group level one-sample t test map for each contrast.
+secondlevel.m is the code for getting a group level one-sample t test map for each contrast. onesample_t.m is the subfunction for secondlevel.m.
 
 #TPM template:
 mkpdtemplate_ELP3.m is the code to make a pediatric template aged from 7 years old to 10.5 years old. 
